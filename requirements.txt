@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+selenium
+beautifulsoup4
+requests
+nltk
+vaderSentiment
+spacy
+matplotlib
+seaborn
+plotly
+praw
+pyspark
+kaggle
