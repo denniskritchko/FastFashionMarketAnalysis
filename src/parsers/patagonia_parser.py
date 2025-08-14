@@ -31,3 +31,4 @@ if __name__ == '__main__':
 	input_file = os.path.join(base_dir, '..', '..', 'data', 'Patagonia_WebScrape_ClothingItems_v1.csv')
 	output_dir = os.path.join(base_dir, '..', '..', 'data', 'patagonia_cleaned.parquet')
 	parse_patagonia_csv_with_spark(input_file, output_dir)
+

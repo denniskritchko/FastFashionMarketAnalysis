@@ -6,3 +6,4 @@ docs/EXAMPLE.MD
 .env
 /artifacts
 /reddit-brands
+/data/*
