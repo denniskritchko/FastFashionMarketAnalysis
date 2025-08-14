@@ -13,3 +13,6 @@ plotly
 praw
 pyspark
 kaggle
+Flask
+python-dotenv
+google-generativeai
