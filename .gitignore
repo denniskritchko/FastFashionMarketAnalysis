@@ -2,8 +2,8 @@ docs/RUBRIC.md
 docs/EXAMPLE.MD
 /.venv/
 /venv/
-/data
 .env
 /artifacts
 /reddit-brands
-/data/*
+data/*.csv
+data/*.parquet
