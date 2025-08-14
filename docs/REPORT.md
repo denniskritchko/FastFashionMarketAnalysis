@@ -66,41 +66,5 @@ Furthermore, consumer perceptions are poorly aligned with sustainability metrics
 
 This project reveals a marketplace where consumer trust is the target, marketing is the weapon, and the actual quality and lifetime of the clothing is often the first casualty. 
 
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Accomplishment Statement (as seen on my resume):
-
-Fast Fashion vs. Sustainable Consumption: An Empirical Data Driven Study
-Python, Hadoop, scikit-learn, Apache Spark, Pandas, Matplotlib, VADER
-Conducted an empirical study by scraping, cleaning, and integrating >200mb of raw data from six sources, producing an analysis-ready dataset to investigate the relationship between product attributes and customer sentiment. 
-Developed a Natural Language Processing (NLP) model to score product durability from thousands of customer reviews using a bag-of-words model, translating subjective qualities into objective data.
-Used VADER on an Apache Spark process using the SFU Compute Cluster to efficiently process sentiment of large-scale Reddit text data.
-Conducted multi-faceted market analysis using K-means clustering to uncover consumer patterns, and Pearson correlation to test marketing claim hypotheses, ultimately uncovering a widespread “greenwashing” gap for consumers.
-
 Work Cited
 Putting the brakes on fast fashion., UNEP, https://www.unep.org/news-and-stories/story/putting-brakes-fast-fashion 
